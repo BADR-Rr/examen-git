@@ -1,2 +1,4 @@
 instagram
 tiktok
+visual studio
+google chrome
