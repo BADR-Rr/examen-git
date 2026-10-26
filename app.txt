@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 brave
 word
 exccel
+=======
+instagram
+tiktok
+<<<<<<< HEAD
+visual studio
+google chrome
+=======
+walapop
+>>>>>>> dev
+>>>>>>> hotfix/bug
