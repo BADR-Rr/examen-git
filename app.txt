@@ -1,4 +1,8 @@
 instagram
 tiktok
+<<<<<<< HEAD
 visual studio
 google chrome
+=======
+walapop
+>>>>>>> dev
